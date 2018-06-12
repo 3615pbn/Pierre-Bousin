@@ -3,7 +3,7 @@
 
 <table width="100%">
  <tr>
-	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-size:14px; font-famlily: Architects Daughter bold; width=10%;">Date</th>
+	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-size:14px; font-famlily: Architects Daughter; width=10%;">Date</th>
 	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-weight: bold; width=25%;">Poste</th>
 	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-weight: bold; width=15%;">Société</th>
 	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-weight: bold; width=50%;">Missions</th>
