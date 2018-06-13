@@ -1,5 +1,5 @@
 <h2>✈️ Mon Parcours jusqu'à aujourd'hui</h2>
-<p><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/portrait.jpg" style="float:left; padding: 20px; width:150px; height: 150px" alt="Portrait">Trentenaire originaire de Tours, j'ai d'abord été opticien en magasin avant de m'installer sur Paris et aider à la fondation du 1er opticien en ligne français en 2009, pour moi une vraie découverte du monde du Web. De part cette expérience, cela m'a amené par la suite à participer à la création d'une plateforme ecommerce Magento au sein du groupe Optic 2000 en portant sur le Service Client (process et management d'équipe) et création des parcours utilisateurs spécialisés de ce secteur. Je me suis spécialisé petit à petit en interne sur la partie référencement naturel pour les différents sites du groupe avec un pilotage des campagnes ADS.</p>
+<p><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/portrait.jpg" style="float:left; padding: 15px; width:150px; height: 150px" alt="Portrait">Trentenaire originaire de Tours, j'ai d'abord été opticien en magasin avant de m'installer sur Paris et aider à la fondation du 1er opticien en ligne français en 2009, pour moi une vraie découverte du monde du Web. De part cette expérience, cela m'a amené par la suite à participer à la création d'une plateforme ecommerce Magento au sein du groupe Optic 2000 en portant sur le Service Client (process et management d'équipe) et création des parcours utilisateurs spécialisés de ce secteur. Je me suis spécialisé petit à petit en interne sur la partie référencement naturel pour les différents sites du groupe avec un pilotage des campagnes ADS.</p>
 <p>Avec la volonté de voir d'autres choses que le secteur de l'optique et de plonger un peu plus dans l'écosystème digital, j'ai basculé en agence pour devenir Chef de Projet SEO chez Blog Ecommerce. J'y ai aimé la variété des projets (PrestaShop, WooCommerce, Oasis7,...) et la relation avec les différents partenaires, techniques comme clients.</p>
 
 <p style="font-weight:bold; text-decoration:underline;">En quelques dates :</p>
@@ -14,7 +14,7 @@
  <tr>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2016-2018</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Chef de Projet WebMarketing - SEO</td>
-	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;"><p>Blog Ecommerce</br>(Agence)</p></td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Blog Ecommerce(Agence)</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Optimisation SEO OnSite – Content Marketing – Netlinking – Analyse de Logs</li>
@@ -25,7 +25,7 @@
  <tr>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2015-2016</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Trafic Manager</td>
-	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;"><p>Optic 2000</br>(Grand Groupe)</p></td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Optic 2000(Grand Groupe)</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Créations de campagnes et arbitrage des budgets média online (SEA, Display, Emailing, Native Ad)</li>
@@ -36,7 +36,7 @@
  <tr>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2011-2015</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Responsable Service Client Ecommerce</td>
-	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;"><p>Optic 2000</br>(Grand Groupe)</p></td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Optic 2000(Grand Groupe)</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Choix et Implémentation des outils pour l’assistance utilisateur du nouveau site E-Commerce</li>
@@ -47,7 +47,7 @@
  <tr>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2009-2011</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Directeur Général</td>
-	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;"><p>Happyview.fr</br>(Startup)</p></td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Happyview.fr(Startup)</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Assistance et Service Clients - Référencement Fournisseurs - Relation Partenaires Santé</li>
@@ -57,7 +57,7 @@
  <tr>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2006-2009</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Opticien</td>
-	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;"><p>Les Opticiens Mutualistes</br>(Magasins)</p></td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Les Opticiens Mutualistes(Magasins)</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Accueil - Vente - Fidélisation clientèle - Gestion Tiers-Payant	</li>
@@ -73,13 +73,13 @@
 	<th style="background-color: #3782d3;color:#88dcff; padding: 5px; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=90%;">Formation</th>
  </tr>
  <tr>
-	<td style="text-align: left; font-size:12px; padding: 5px;">2009 | CQP Opticien - Gérant Commercial</td>
+	<td style="text-align: left; font-size:12px; padding: 5px;">2009 - CQP Opticien Gérant Commercial</td>
  </tr>
   <tr>
-	<td style="text-align: left; font-size:12px; padding: 5px;">2006 | BTS Opticien Lunetier</td>
+	<td style="text-align: left; font-size:12px; padding: 5px;">2006 - BTS Opticien-Lunetier</td>
  </tr>
   <tr>
-	<td style="text-align: left; font-size:12px; padding: 5px;">2004 | Bac S</td>
+	<td style="text-align: left; font-size:12px; padding: 5px;">2004 - Bac S</td>
  </tr>
 </table>
 </p>
@@ -90,7 +90,7 @@
 Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-Stack pour m'ancrer un peu sur mon territoire et l'écosystème local, avec une volonté de m'inscrire dans le plan d'évolution de petites structures type PME/TPE et startups que des SSII.</p>
 <p>C'est pour toutes ces raisons que je souhaite participer à la prochaine session CEFIM pour devenir Développeur Web.</p>
 
-<h2>🎬 Mes centres d'intérêts du moment</h2>
+<h2>🎧 Mes centres d'intérêts du moment</h2>
 <h3>Rénovation de ma maison</h3>
 <p>Je viens d'emménager dans une maison ancienne proche de la Rue Febvotte et après 3 mois de travaux, nous y sommes bien avec mes 2 enfants mais il reste toujours des choses à faire depuis notre installation.😥</p>
 <div align="center">
@@ -98,19 +98,18 @@ Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-S
 </div>
 
 <h3>Gestion de sites personnels</h3>
-<p><a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/Maison_LaFilleduTailleur-Logo.png" style="float:left; padding: 20px; width:100px; height: 100px" alt="La Fille du Tailleur"></a> Mon épouse est créatrice de Robe de Mariée et j'ai réalisé pour elle un site vitrine sous Wordpress pour mettre en valeur ses créations et communiquer sur ces dernières actualités. J'agis aussi sur la partie référencement naturel bien évidemment.</br></br>
+<p><a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/Maison_LaFilleduTailleur-Logo.png" style="float:left; padding: 15px; width:150px; height: 150px" alt="La Fille du Tailleur"></a> Mon épouse est créatrice de Robe de Mariée et j'ai réalisé pour elle un site vitrine sous Wordpress pour mettre en valeur ses créations et communiquer sur ces dernières actualités. J'agis aussi sur la partie référencement naturel bien évidemment.
 ▶️ <a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur">Voir le site</a>.</p>
-</br>
 
 <h3>Le Basket, plus particulièrement la NBA</h3>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/SsCr1GIFKklr2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-<p>Pour moi le plus beau sport du monde. Et si des amateurs présents, à découvrir ce cycle de vidéos sur <a href="https://www.youtube.com/channel/UCANaa23W9dzac8iL_fGGfPw/featured" target="blank" title="Page Youtube TBNL">les plus grands joueurs NBA</a> ou toute la communauté <a href="http://trashtalk.co/" target="blank" title="Trashtalk">Trashtalk</a>.</p>
+<p style="margin-top: 10px;">Pour moi le plus beau sport du monde même si j'aime aussi voir du volley et du rugby. Et si des amateurs présents, à découvrir ce cycle de vidéos sur <a href="https://www.youtube.com/channel/UCANaa23W9dzac8iL_fGGfPw/featured" target="blank" title="Page Youtube TBNL">les plus grands légendes NBA</a> ou toute la communauté <a href="http://trashtalk.co/" target="blank" title="Trashtalk">Trashtalk</a>.</p>
 
 <h3>Le débat sur la protection des données personnelles et la neutralité du Net</h3>
 <iframe width="690px" height="388px" src="https://www.youtube.com/embed/MUTABXD8f24?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <p>Observateur depuis quelques années des différents enjeux et risques que ce soit en France (loi anti-terroriste) comme au niveau supérieur (Europe, USA...). Je suis les actions d'associations comme la Quadrature du Net et la FDN.</p>
 
-<h2>👇 Retrouvez-moi sur le web et ailleurs</h2>
+<h2>🚀 Retrouvez-moi sur le web et ailleurs</h2>
 <div>
 	<a href="https://www.linkedin.com/in/pierrebousin/" target="blank" title="Page Linkedin"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/if_linkedin_252090.png" alt="Page Linkedin"></a>
 	<a href="https://twitter.com/P_Bousin" target="blank" title="Compte Twitter"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/if_twitter_252077.png" alt="Compte Twitter"></a>
