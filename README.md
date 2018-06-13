@@ -6,16 +6,16 @@
 <p>
 <table width="100%">
  <tr>
-	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=10%;">Date</th>
-	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=25%;">Poste</th>
-	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=15%;">Société</th>
-	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=50%;">Missions</th>
+	<th style="background-color: #3782d3;color:#88dcff; padding: 5px; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=10%;">Date</th>
+	<th style="background-color: #3782d3;color:#88dcff; padding: 5px; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=25%;">Poste</th>
+	<th style="background-color: #3782d3;color:#88dcff; padding: 5px; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=15%;">Société</th>
+	<th style="background-color: #3782d3;color:#88dcff; padding: 5px; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=50%;">Missions</th>
  </tr>
  <tr>
-	<td style="text-align: left; font-size:12px; width=10%;">2016-2018</td>
-	<td style="text-align: left; font-size:12px; width=25%;">Chef de Projet WebMarketing - SEO</td>
-	<td style="text-align: left; font-size:12px; width=15%;"><p>Blog Ecommerce(Agence)</p></td>
-	<td style="text-align: left; font-size:12px; width=50%;">
+	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2016-2018</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Chef de Projet WebMarketing - SEO</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;"><p>Blog Ecommerce</br>(Agence)</p></td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Optimisation SEO OnSite – Content Marketing – Netlinking – Analyse de Logs</li>
 			<li>Stratégie Multi-Leviers (SEO, SEA, Market Places) – Accompagnement & Formation Client</li>
@@ -23,10 +23,10 @@
 	</td>
  </tr>
  <tr>
-	<td style="text-align: left; font-size:12px; width=10%;">2015-2016</td>
-	<td style="text-align: left; font-size:12px; width=25%;">Trafic Manager</td>
-	<td style="text-align: left; font-size:12px; width=15%;"><p>Optic 2000(Grand Groupe)</td>
-	<td style="text-align: left; font-size:12px; width=50%;">
+	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2015-2016</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Trafic Manager</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;"><p>Optic 2000</br>(Grand Groupe)</p></td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Créations de campagnes et arbitrage des budgets média online (SEA, Display, Emailing, Native Ad)</li>
 			<li>Référent SEO pour optimisation onsite, accompagnement refonte et implémentation des trackings</li>
@@ -34,10 +34,10 @@
 	</td>
  </tr>
  <tr>
-	<td style="text-align: left; font-size:12px; width=10%;">2011-2015</td>
-	<td style="text-align: left; font-size:12px; width=25%;">Responsable Service Client Ecommerce</td>
-	<td style="text-align: left; font-size:12px; width=15%;"><p>Optic 2000(Grand Groupe)</p></td>
-	<td style="text-align: left; font-size:12px; width=50%;">
+	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2011-2015</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Responsable Service Client Ecommerce</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;"><p>Optic 2000</br>(Grand Groupe)</p></td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Choix et Implémentation des outils pour l’assistance utilisateur du nouveau site E-Commerce</li>
 			<li>Support BtoC (Clients Online) et BtoB (1200 magasins) & Etudes clients (NPS, Avis Produits)</li>
@@ -45,20 +45,20 @@
 	</td>
  </tr>
  <tr>
-	<td style="text-align: left; font-size:12px; width=10%;">2009-2011</td>
-	<td style="text-align: left; font-size:12px; width=25%;">Directeur Général</td>
-	<td style="text-align: left; font-size:12px; width=15%;"><p>Happyview.fr(Startup)</p></td>
-	<td style="text-align: left; font-size:12px; width=50%;">
+	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2009-2011</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Directeur Général</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;"><p>Happyview.fr</br>(Startup)</p></td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Assistance et Service Clients - Référencement Fournisseurs - Relation Partenaires Santé</li>
 	</p>
 	</td>
  </tr>
  <tr>
-	<td style="text-align: left; font-size:12px; width=10%;">2006-2009</td>
-	<td style="text-align: left; font-size:12px; width=25%;">Opticien</td>
-	<td style="text-align: left; font-size:12px; width=15%;"><p>Les Opticiens Mutualistes(Magasins)</p></td>
-	<td style="text-align: left; font-size:12px; width=50%;">
+	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2006-2009</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Opticien</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;"><p>Les Opticiens Mutualistes</br>(Magasins)</p></td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Accueil - Vente - Fidélisation clientèle - Gestion Tiers-Payant	</li>
 	</p>
@@ -70,20 +70,16 @@
 <p>
 <table width="100%">
  <tr>
-	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=10%;">Date</th>
-	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=90%;">Formation</th>
+	<th style="background-color: #3782d3;color:#88dcff; padding: 5px; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=90%;">Formation</th>
  </tr>
  <tr>
-	<td style="text-align: left; font-size:12px; width=10%;">2009</td>
-	<td style="text-align: left; font-size:12px; width=90%;">CQP Opticien - Gérant Commercial</td>
+	<td style="text-align: left; font-size:12px; padding: 5px;">2009 | CQP Opticien - Gérant Commercial</td>
  </tr>
   <tr>
-	<td style="text-align: left; font-size:12px; width=10%;">2006</td>
-	<td style="text-align: left; font-size:12px; width=90%;">BTS Opticien Lunetier</td>
+	<td style="text-align: left; font-size:12px; padding: 5px;">2006 | BTS Opticien Lunetier</td>
  </tr>
   <tr>
-	<td style="text-align: left; font-size:12px; width=10%;">2004</td>
-	<td style="text-align: left; font-size:12px; width=90%;">Bac S</td>
+	<td style="text-align: left; font-size:12px; padding: 5px;">2004 | Bac S</td>
  </tr>
 </table>
 </p>
@@ -96,12 +92,15 @@ Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-S
 
 <h2>🎬 Mes centres d'intérêts du moment</h2>
 <h3>Rénovation de ma maison</h3>
-<p>Je viens d'emménager dans une maison ancienne proche de la Rue Febvotte et après 3 mois de travaux, nous y sommes bien avec mes 2 enfants mais il reste toujours des choses à faire depuis notre installation.
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BhbcSviBk1r/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BhbcSviBk1r/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Les travaux, on sait quand ça commence mais pas quand ça finit... Satisfaction du jour avec la pose réussie de la verrière #ouf #pascassé</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/p_bousin/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Pierre Bousin</a> (@p_bousin) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-11T11:38:58+00:00">11 Avril 2018 à 4 :38 PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+<p>Je viens d'emménager dans une maison ancienne proche de la Rue Febvotte et après 3 mois de travaux, nous y sommes bien avec mes 2 enfants mais il reste toujours des choses à faire depuis notre installation.😥</p>
+<div align="center">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BhbcSviBk1r/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:330px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BhbcSviBk1r/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Une publication partagée par Pierre Bousin (@p_bousin)</a> le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-11T11:38:58+00:00">11 Avril 2018 à 4 :38 PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+</div>
 
 <h3>Gestion de sites personnels</h3>
-<p><a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/Maison_LaFilleduTailleur-Logo.png" style="float:left; padding: 20px; width:100px; height: 100px" alt="La Fille du Tailleur"></a> Mon épouse est créatrice de Robe de Mariée et j'ai réalisé pour elle un site vitrine sous Wordpress pour mettre en valeur ses créations et communiquer sur ces dernières actualités. J'agis aussi sur la partie référencement naturel bien évidemment.</p>
-<p>▶️ <a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur">Voir le site</a>.</p>
+<p><a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/Maison_LaFilleduTailleur-Logo.png" style="float:left; padding: 20px; width:100px; height: 100px" alt="La Fille du Tailleur"></a> Mon épouse est créatrice de Robe de Mariée et j'ai réalisé pour elle un site vitrine sous Wordpress pour mettre en valeur ses créations et communiquer sur ces dernières actualités. J'agis aussi sur la partie référencement naturel bien évidemment.</br></br>
+▶️ <a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur">Voir le site</a>.</p>
+</br>
 
 <h3>Le Basket, plus particulièrement la NBA</h3>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/SsCr1GIFKklr2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
