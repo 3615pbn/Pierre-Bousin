@@ -1,8 +1,72 @@
-<h2>✈️ Mon Parcours jusqu'à aujourd'hui XXX</h2>
+<h2>✈️ Mon Parcours jusqu'à aujourd'hui</h2>
 <p><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/portrait.jpg" style="float:left; padding: 20px; width:150px; height: 150px" alt="Portrait">Trentenaire originaire de Tours, j'ai d'abord été opticien en magasin avant de m'installer sur Paris et aider à la fondation du 1er opticien en ligne français en 2009, pour moi une vraie découverte du monde du Web. De part cette expérience, cela m'a amené par la suite à participer à la création d'une plateforme ecommerce Magento au sein du groupe Optic 2000 en portant sur le Service Client (process et management d'équipe) et création des parcours utilisateurs spécialisés de ce secteur. Je me suis spécialisé petit à petit en interne sur la partie référencement naturel pour les différents sites du groupe avec un pilotage des campagnes ADS.</p>
 <p>Avec la volonté de voir d'autres choses que le secteur de l'optique et de plonger un peu plus dans l'écosystème digital, j'ai basculé en agence pour devenir Chef de Projet SEO chez Blog Ecommerce. J'y ai aimé la variété des projets (PrestaShop, WooCommerce, Oasis7,...) et la relation avec les différents partenaires, techniques comme clients.</p>
 
 <p style="font-weight:bold; text-decoration:underline;">En quelques dates :</p>
+<p>
+<table width="100%">
+ <tr>
+	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=10%;">Date</th>
+	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=25%;">Poste</th>
+	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=15%;">Société</th>
+	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=50%;">Missions</th>
+ </tr>
+ <tr>
+	<td style="text-align: left; font-size:12px; width=10%;">2016-2018</td>
+	<td style="text-align: left; font-size:12px; width=25%;">Chef de Projet WebMarketing - SEO</td>
+	<td style="text-align: left; font-size:12px; width=15%;"><p>Blog Ecommerce(Agence)</p></td>
+	<td style="text-align: left; font-size:12px; width=50%;">
+	<p>
+			<li>Optimisation SEO OnSite – Content Marketing – Netlinking – Analyse de Logs</li>
+			<li>Stratégie Multi-Leviers (SEO, SEA, Market Places) – Accompagnement & Formation Client</li>
+	</p>
+	</td>
+ </tr>
+ <tr>
+	<td style="text-align: left; font-size:12px; width=10%;">2015-2016</td>
+	<td style="text-align: left; font-size:12px; width=25%;">Trafic Manager</td>
+	<td style="text-align: left; font-size:12px; width=15%;"><p>Optic 2000(Grand Groupe)</td>
+	<td style="text-align: left; font-size:12px; width=50%;">
+	<p>
+			<li>Créations de campagnes et arbitrage des budgets média online (SEA, Display, Emailing, Native Ad)</li>
+			<li>Référent SEO pour optimisation onsite, accompagnement refonte et implémentation des trackings</li>
+	</p>
+	</td>
+ </tr>
+ <tr>
+	<td style="text-align: left; font-size:12px; width=10%;">2011-2015</td>
+	<td style="text-align: left; font-size:12px; width=25%;">Responsable Service Client Ecommerce</td>
+	<td style="text-align: left; font-size:12px; width=15%;"><p>Optic 2000(Grand Groupe)</p></td>
+	<td style="text-align: left; font-size:12px; width=50%;">
+	<p>
+			<li>Choix et Implémentation des outils pour l’assistance utilisateur du nouveau site E-Commerce</li>
+			<li>Support BtoC (Clients Online) et BtoB (1200 magasins) & Etudes clients (NPS, Avis Produits)</li>
+	</p>
+	</td>
+ </tr>
+ <tr>
+	<td style="text-align: left; font-size:12px; width=10%;">2009-2011</td>
+	<td style="text-align: left; font-size:12px; width=25%;">Directeur Général</td>
+	<td style="text-align: left; font-size:12px; width=15%;"><p>Happyview.fr(Startup)</p></td>
+	<td style="text-align: left; font-size:12px; width=50%;">
+	<p>
+			<li>Assistance et Service Clients - Référencement Fournisseurs - Relation Partenaires Santé</li>
+	</p>
+	</td>
+ </tr>
+ <tr>
+	<td style="text-align: left; font-size:12px; width=10%;">2006-2009</td>
+	<td style="text-align: left; font-size:12px; width=25%;">Opticien</td>
+	<td style="text-align: left; font-size:12px; width=15%;"><p>Les Opticiens Mutualistes(Magasins)</p></td>
+	<td style="text-align: left; font-size:12px; width=50%;">
+	<p>
+			<li>Accueil - Vente - Fidélisation clientèle - Gestion Tiers-Payant	</li>
+	</p>
+	</td>
+ </tr>
+</table>
+</p>
+
 <p>
 <table width="100%">
  <tr>
@@ -36,8 +100,9 @@ Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-S
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BhbcSviBk1r/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BhbcSviBk1r/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Les travaux, on sait quand ça commence mais pas quand ça finit... Satisfaction du jour avec la pose réussie de la verrière #ouf #pascassé</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/p_bousin/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Pierre Bousin</a> (@p_bousin) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-11T11:38:58+00:00">11 Avril 2018 à 4 :38 PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
 
 <h3>Gestion de sites personnels</h3>
-<p><a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/Maison_LaFilleduTailleur-Logo.png" style="float:left; width:90px; height: 90px" alt="La Fille du Tailleur"></a> Mon épouse est créatrice de Robe de Mariée et j'ai réalisé pour elle un site vitrine sous Wordpress pour mettre en valeur ses créations et communiquer sur ces dernières actualités. J'agis aussi sur la partie référencement naturel bien évidemment.</br>▶️ <a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur">Voir le site</a>.</p>
-</br>
+<p><a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/Maison_LaFilleduTailleur-Logo.png" style="float:left; padding: 20px; width:100px; height: 100px" alt="La Fille du Tailleur"></a> Mon épouse est créatrice de Robe de Mariée et j'ai réalisé pour elle un site vitrine sous Wordpress pour mettre en valeur ses créations et communiquer sur ces dernières actualités. J'agis aussi sur la partie référencement naturel bien évidemment.</p>
+<p>▶️ <a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur">Voir le site</a>.</p>
+
 <h3>Le Basket, plus particulièrement la NBA</h3>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/SsCr1GIFKklr2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 <p>Pour moi le plus beau sport du monde. Et si des amateurs présents, à découvrir ce cycle de vidéos sur <a href="https://www.youtube.com/channel/UCANaa23W9dzac8iL_fGGfPw/featured" target="blank" title="Page Youtube TBNL">les plus grands joueurs NBA</a> ou toute la communauté <a href="http://trashtalk.co/" target="blank" title="Trashtalk">Trashtalk</a>.</p>
