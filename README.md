@@ -97,7 +97,8 @@ Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-S
 </div>
 
 <h3>Sites web personnels</h3>
-<a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/lafilledutailleur_hp.JPG" style="width:100%;" alt="La Fille du Tailleur"></a> <p>Mon épouse est créatrice de Robe de Mariée et j'ai réalisé pour elle un site vitrine sous Wordpress pour mettre en valeur ses créations et communiquer sur ces dernières actualités. J'agis aussi sur la partie référencement naturel bien évidemment. <a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur">Voir le site</a></p>
+<a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/lafilledutailleur_hp.JPG" style="width:100%;" alt="La Fille du Tailleur"></a>
+<p>Mon épouse est créatrice de Robe de Mariée et j'ai réalisé pour elle un site vitrine sous Wordpress pour mettre en valeur ses créations et communiquer sur ces dernières actualités. J'agis aussi sur la partie référencement naturel bien évidemment. <a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur">Voir le site</a></p>
 
 <h3>Le Basket, plus particulièrement la NBA</h3>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/SsCr1GIFKklr2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
