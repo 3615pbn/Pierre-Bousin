@@ -1,9 +1,9 @@
 <h2>✈️ Mon Parcours jusqu'à aujourd'hui</h2>
-<p><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/portrait.jpg" style="float:left; padding:20px; width:150px; height: 150px" alt="Portrait">Trentenaire originaire de Tours, j'ai d'abord été opticien en magasin avant de m'installer sur Paris et aider à la fondation du 1er opticien en ligne français en 2009, pour moi une vraie découverte du monde du Web. De part cette expérience, cela m'a amené par la suite à participer à la création d'une plateforme ecommerce Magento au sein du groupe Optic 2000 en portant sur le Service Client (process et management) et création des parcours utilisateurs spécialisées de ce secteur. Je me suis spécialisé petit à petit en interne sur la partie référencement naturel pour les différents sites du groupe avec un pilotage des campagnes ADS.</p>
+<p><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/portrait.jpg" style="float:left; padding: 20px; width:150px; height: 150px" alt="Portrait">Trentenaire originaire de Tours, j'ai d'abord été opticien en magasin avant de m'installer sur Paris et aider à la fondation du 1er opticien en ligne français en 2009, pour moi une vraie découverte du monde du Web. De part cette expérience, cela m'a amené par la suite à participer à la création d'une plateforme ecommerce Magento au sein du groupe Optic 2000 en portant sur le Service Client (process et management d'équipe) et création des parcours utilisateurs spécialisés de ce secteur. Je me suis spécialisé petit à petit en interne sur la partie référencement naturel pour les différents sites du groupe avec un pilotage des campagnes ADS.</p>
 <p>Avec la volonté de voir d'autres choses que le secteur de l'optique et de plonger un peu plus dans l'écosystème digital, j'ai basculé en agence pour devenir Chef de Projet SEO chez Blog Ecommerce. J'y ai aimé la variété des projets (PrestaShop, WooCommerce, Oasis7,...) et la relation avec les différents partenaires, techniques comme clients.</p>
 
 <p style="font-weight:bold; text-decoration:underline;">En quelques dates :</p>
-<div class="tab">
+<p>
 <table width="100%">
  <tr>
 	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=10%;">Date</th>
@@ -65,9 +65,9 @@
 	</td>
  </tr>
 </table>
-</div>
+</p>
 
-<div class="tab2">
+<p>
 <table width="100%">
  <tr>
 	<th style="background-color: #3782d3;color:#88dcff; text-align: left; font-family: Architects Daughter; font-size:15px; font-weight: bold; width=10%;">Date</th>
@@ -86,15 +86,13 @@
 	<td style="text-align: left; font-size:12px; width=90%;">Bac S</td>
  </tr>
 </table>
-</div>
-
-<h2>💻 Pourquoi devenir développeur web et logiciel  et pourquoi CEFIM ?</h2>
-<p>Etre au contact des développeurs a été pour moi un réel enrichissement lors de mes débuts dans le Web car ils savaient transcrire des choses que j'avais moi-même du mal à schématiser. De plus au cours de ces 3 dernières années, j'ai été amené à réaliser de l'intégration basique sur des sites clients et j'ai pris un réel plaisir sur la partie production. Seulement bidouiller c'est bien mais je veux réellement apprendre les langages et surtout des méthodes d'apprentissages pérennes.</br></br>
-J'aurai aimé rester dans ma branche le WebMarketing mais les offres en Touraine sont très rares et je souhaite ne plus faire de trajet Tours-Paris.
-Ainsi, je vois l'opportunité de me spécialiser en tant que Developpeur Full Stack pour m'ancrer un peu sur mon territoire et l'écosystème local, avec une volonté de m'inscrire dans le plan d'évolution de petites structures type PME/TPE et startups que des SSII.</br></br>
-
-C'est pour toutes ces raisons que je souhaite participer à la prochaine session CEFIM pour devenir Développeur Web fullstack.
 </p>
+
+<h2>💻 Pourquoi devenir développeur web/logiciel  et pourquoi CEFIM ?</h2>
+<p>Etre au contact des développeurs a été pour moi un réel enrichissement lors de mes débuts dans le Web car ils savaient transcrire des choses que j'avais moi-même du mal à schématiser. De plus au cours de ces 3 dernières années, j'ai été amené à réaliser de l'intégration basique sur des sites clients et j'ai pris un réel plaisir sur la partie production. Seulement bidouiller c'est bien mais je veux réellement apprendre les langages et surtout des méthodes d'apprentissages pérennes.</p>
+<p>J'aurai aimé rester dans ma branche le WebMarketing mais les offres en Touraine sont très rares et je souhaite ne plus faire de trajet Tours-Paris.
+Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-Stack pour m'ancrer un peu sur mon territoire et l'écosystème local, avec une volonté de m'inscrire dans le plan d'évolution de petites structures type PME/TPE et startups que des SSII.</p>
+<p>C'est pour toutes ces raisons que je souhaite participer à la prochaine session CEFIM pour devenir Développeur Web.</p>
 
 <h2>🎬 Mes centres d'intérêts du moment</h2>
 <h3>Rénovation de ma maison</h3>
