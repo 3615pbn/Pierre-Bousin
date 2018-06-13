@@ -1,5 +1,5 @@
-<h2>✈️ Mon Parcours jusqu'à aujourd'hui</h2>
-<p><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/portrait.jpg" style="float:left; padding: 10px; width:150px; height: 150px" alt="Portrait">Trentenaire originaire de Tours, j'ai d'abord été opticien en magasin avant de m'installer sur Paris et aider à la fondation du 1er opticien en ligne français en 2009, pour moi une vraie découverte du monde du Web. De part cette expérience, cela m'a amené par la suite à participer à la création d'une plateforme ecommerce Magento au sein du groupe Optic 2000 en portant sur le Service Client (process et management d'équipe) et création des parcours utilisateurs spécialisés de ce secteur. Je me suis spécialisé petit à petit en interne sur la partie référencement naturel pour les différents sites du groupe avec un pilotage des campagnes ADS.</p>
+<h2>Mon Parcours jusqu'à aujourd'hui ✈</h2>
+<p><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/portrait.jpg" style="float:left; padding: 18px; width:150px; height: 150px" alt="Portrait">Trentenaire originaire de Tours, j'ai d'abord été opticien en magasin avant de m'installer sur Paris et aider à la fondation du 1er opticien en ligne français en 2009, pour moi une vraie découverte du monde du Web. De part cette expérience, cela m'a amené par la suite à participer à la création d'une plateforme ecommerce Magento au sein du groupe Optic 2000 en portant sur le Service Client (process et management d'équipe) et création des parcours utilisateurs spécialisés de ce secteur. Je me suis spécialisé petit à petit en interne sur la partie référencement naturel pour les différents sites du groupe avec un pilotage des campagnes ADS.</p>
 <p>Avec la volonté de voir d'autres choses que le secteur de l'optique et de plonger un peu plus dans l'écosystème digital, j'ai basculé en agence pour devenir Chef de Projet SEO chez Blog Ecommerce. J'y ai aimé la variété des projets (PrestaShop, WooCommerce, Oasis7,...) et la relation avec les différents partenaires, techniques comme clients. Vous retrouverez ci-dessous tous les détails de mes missions.</p>
 
 <p>
@@ -83,13 +83,13 @@
 </table>
 </p>
 
-<h2>💻 Pourquoi devenir développeur web/logiciel  et pourquoi CEFIM ?</h2>
+<h2>Pourquoi devenir développeur web/logiciel  et pourquoi CEFIM ? 💻</h2>
 <p>Etre au contact des développeurs a été pour moi un réel enrichissement lors de mes débuts dans le Web car ils savaient transcrire des choses que j'avais moi-même du mal à schématiser. De plus au cours de ces 3 dernières années, j'ai été amené à réaliser de l'intégration basique sur des sites clients et j'ai pris un réel plaisir sur la partie production. Seulement bidouiller c'est bien mais je veux réellement apprendre les langages et surtout des méthodes d'apprentissages pérennes.</p>
 <p>J'aurai aimé rester dans ma branche le WebMarketing mais les offres en Touraine sont très rares et je souhaite ne plus faire de trajet Tours-Paris.
 Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-Stack pour m'ancrer un peu sur mon territoire et l'écosystème local, avec une volonté de m'inscrire dans le plan d'évolution de petites structures type PME/TPE et startups que des SSII.</p>
 <p>C'est pour toutes ces raisons que je souhaite participer à la prochaine session CEFIM pour devenir Développeur Web.</p>
 
-<h2>🎧 Mes centres d'intérêts du moment</h2>
+<h2>Mes centres d'intérêts du moment 🎧</h2>
 <h3>Rénovation de ma maison</h3>
 <p>Je viens d'emménager dans une maison ancienne proche de la Rue Febvotte et après 3 mois de travaux, nous y sommes bien avec mes 2 enfants mais il reste toujours des choses à faire depuis notre installation.😥</p>
 <div align="center">
@@ -108,7 +108,7 @@ Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-S
 <iframe width="690px" height="388px" src="https://www.youtube.com/embed/MUTABXD8f24?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <p style="margin-top: 10px;">Observateur depuis quelques années des différents enjeux et risques que ce soit en France (loi anti-terroriste) comme au niveau supérieur (Europe, USA...). Je suis les actions d'associations comme la Quadrature du Net et la FDN.</p>
 
-<h2>🚀 Retrouvez-moi sur le web et ailleurs</h2>
+<h2>Retrouvez-moi sur le web et ailleurs 🚀</h2>
 <div>
 	<a href="https://www.linkedin.com/in/pierrebousin/" target="blank" title="Page Linkedin"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/if_linkedin_252090.png" alt="Page Linkedin"></a>
 	<a href="https://twitter.com/P_Bousin" target="blank" title="Compte Twitter"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/if_twitter_252077.png" alt="Compte Twitter"></a>
