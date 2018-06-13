@@ -1,8 +1,7 @@
 <h2>✈️ Mon Parcours jusqu'à aujourd'hui</h2>
-<p><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/portrait.jpg" style="float:left; padding: 15px; width:150px; height: 150px" alt="Portrait">Trentenaire originaire de Tours, j'ai d'abord été opticien en magasin avant de m'installer sur Paris et aider à la fondation du 1er opticien en ligne français en 2009, pour moi une vraie découverte du monde du Web. De part cette expérience, cela m'a amené par la suite à participer à la création d'une plateforme ecommerce Magento au sein du groupe Optic 2000 en portant sur le Service Client (process et management d'équipe) et création des parcours utilisateurs spécialisés de ce secteur. Je me suis spécialisé petit à petit en interne sur la partie référencement naturel pour les différents sites du groupe avec un pilotage des campagnes ADS.</p>
-<p>Avec la volonté de voir d'autres choses que le secteur de l'optique et de plonger un peu plus dans l'écosystème digital, j'ai basculé en agence pour devenir Chef de Projet SEO chez Blog Ecommerce. J'y ai aimé la variété des projets (PrestaShop, WooCommerce, Oasis7,...) et la relation avec les différents partenaires, techniques comme clients.</p>
+<p><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/portrait.jpg" style="float:left; padding: 10px; width:150px; height: 150px" alt="Portrait">Trentenaire originaire de Tours, j'ai d'abord été opticien en magasin avant de m'installer sur Paris et aider à la fondation du 1er opticien en ligne français en 2009, pour moi une vraie découverte du monde du Web. De part cette expérience, cela m'a amené par la suite à participer à la création d'une plateforme ecommerce Magento au sein du groupe Optic 2000 en portant sur le Service Client (process et management d'équipe) et création des parcours utilisateurs spécialisés de ce secteur. Je me suis spécialisé petit à petit en interne sur la partie référencement naturel pour les différents sites du groupe avec un pilotage des campagnes ADS.</p>
+<p>Avec la volonté de voir d'autres choses que le secteur de l'optique et de plonger un peu plus dans l'écosystème digital, j'ai basculé en agence pour devenir Chef de Projet SEO chez Blog Ecommerce. J'y ai aimé la variété des projets (PrestaShop, WooCommerce, Oasis7,...) et la relation avec les différents partenaires, techniques comme clients. Vous retrouverez ci-dessous tous les détails de mes missions.</p>
 
-<p style="font-weight:bold; text-decoration:underline;">En quelques dates :</p>
 <p>
 <table width="100%">
  <tr>
@@ -14,7 +13,7 @@
  <tr>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2016-2018</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Chef de Projet WebMarketing - SEO</td>
-	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Blog Ecommerce(Agence)</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Blog Ecommerce (Agence)</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Optimisation SEO OnSite – Content Marketing – Netlinking – Analyse de Logs</li>
@@ -25,7 +24,7 @@
  <tr>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2015-2016</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Trafic Manager</td>
-	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Optic 2000(Grand Groupe)</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Optic 2000 (Grand Groupe)</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Créations de campagnes et arbitrage des budgets média online (SEA, Display, Emailing, Native Ad)</li>
@@ -36,7 +35,7 @@
  <tr>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2011-2015</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Responsable Service Client Ecommerce</td>
-	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Optic 2000(Grand Groupe)</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Optic 2000 (Grand Groupe)</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Choix et Implémentation des outils pour l’assistance utilisateur du nouveau site E-Commerce</li>
@@ -47,7 +46,7 @@
  <tr>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2009-2011</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Directeur Général</td>
-	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Happyview.fr(Startup)</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Happyview.fr (Startup)</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Assistance et Service Clients - Référencement Fournisseurs - Relation Partenaires Santé</li>
@@ -57,7 +56,7 @@
  <tr>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=10%;">2006-2009</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=25%;">Opticien</td>
-	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Les Opticiens Mutualistes(Magasins)</td>
+	<td style="text-align: left; font-size:12px; padding: 5px; width=15%;">Les Opticiens Mutualistes (Magasins)</td>
 	<td style="text-align: left; font-size:12px; padding: 5px; width=50%;">
 	<p>
 			<li>Accueil - Vente - Fidélisation clientèle - Gestion Tiers-Payant	</li>
@@ -98,12 +97,12 @@ Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-S
 </div>
 
 <h3>Gestion de sites personnels</h3>
-<p><a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/Maison_LaFilleduTailleur-Logo.png" style="float:left; padding: 15px; width:150px; height: 150px" alt="La Fille du Tailleur"></a> Mon épouse est créatrice de Robe de Mariée et j'ai réalisé pour elle un site vitrine sous Wordpress pour mettre en valeur ses créations et communiquer sur ces dernières actualités. J'agis aussi sur la partie référencement naturel bien évidemment.
-▶️ <a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur">Voir le site</a>.</p>
+<a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/Maison_LaFilleduTailleur-Logo.png" style="float:left;  width:90px; height: 90px" alt="La Fille du Tailleur"></a> <p style="margin-left: 100px;">Mon épouse est créatrice de Robe de Mariée et j'ai réalisé pour elle un site vitrine sous Wordpress pour mettre en valeur ses créations et communiquer sur ces dernières actualités. J'agis aussi sur la partie référencement naturel bien évidemment.</p>
+<p style="margin-left: 100px;"><a href="https://www.lafilledutailleur.fr/" target="blank" title="La Fille du Tailleur">Voir le site</a>.</p>
 
 <h3>Le Basket, plus particulièrement la NBA</h3>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/SsCr1GIFKklr2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-<p style="margin-top: 10px;">Pour moi le plus beau sport du monde même si j'aime aussi voir du volley et du rugby. Et si des amateurs présents, à découvrir ce cycle de vidéos sur <a href="https://www.youtube.com/channel/UCANaa23W9dzac8iL_fGGfPw/featured" target="blank" title="Page Youtube TBNL">les plus grands légendes NBA</a> ou toute la communauté <a href="http://trashtalk.co/" target="blank" title="Trashtalk">Trashtalk</a>.</p>
+<p style="margin-top: 5px;">Pour moi le plus beau sport du monde même si j'aime aussi voir du volley et du rugby. Et si des amateurs présents, à découvrir ce cycle de vidéos sur <a href="https://www.youtube.com/channel/UCANaa23W9dzac8iL_fGGfPw/featured" target="blank" title="Page Youtube TBNL">les plus grands légendes NBA</a> ou toute la communauté <a href="http://trashtalk.co/" target="blank" title="Trashtalk">Trashtalk</a>.</p>
 
 <h3>Le débat sur la protection des données personnelles et la neutralité du Net</h3>
 <iframe width="690px" height="388px" src="https://www.youtube.com/embed/MUTABXD8f24?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
