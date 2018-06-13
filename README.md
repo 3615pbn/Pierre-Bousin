@@ -115,8 +115,6 @@ Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-S
 	<a href="https://www.facebook.com/pierre.bousin" target="blank" title="Page Facebook"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/if_facebook_328029.png" alt="Page Facebook"></a>
 	<a href="https://www.instagram.com/p_bousin/" target="blank" title="Compte Instagram"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/if_instagram_328040.png" alt="Compte Instagram"></a>
 	<a href="https://github.com/3615pbn" target="blank" title="Repo GitHub"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/if_github_328033.png" alt="Repo GitHub"></a>
-</div>
-<div>
 	<a href="https://goo.gl/maps/SZQYLZunbbp" target="blank" title="Adresse"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/if_Flurry_Google_Maps_176513.png" alt="Adresse : 42 Rue Jacques Cartier 37000 Tours"></a>
 	<a href="mailto:pierre.bousin@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/if_Flurry_Google_Gmail_176526.png" alt="Email"></a>
 	<a href="#" title="06 58 05 52 03"><img src="https://raw.githubusercontent.com/3615pbn/Pierre-Bousin/master/if_MetroUI_Phone_Alt_176640.png" title="06 58 05 52 03" alt="Phone"></a>
