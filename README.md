@@ -102,11 +102,11 @@ Ainsi, je vois l'opportunité de me spécialiser en tant que Développeur Full-S
 
 <h3>Le Basket, plus particulièrement la NBA</h3>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/SsCr1GIFKklr2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-<p style="margin-top: 5px;">Pour moi le plus beau sport du monde même si j'aime aussi voir du volley et du rugby. Et si des amateurs présents, à découvrir ce cycle de vidéos sur <a href="https://www.youtube.com/channel/UCANaa23W9dzac8iL_fGGfPw/featured" target="blank" title="Page Youtube TBNL">les plus grands légendes NBA</a> ou toute la communauté <a href="http://trashtalk.co/" target="blank" title="Trashtalk">Trashtalk</a>.</p>
+<p style="margin-top: 10px;">Pour moi le plus beau sport du monde même si j'aime aussi voir du volley et du rugby. Et si des amateurs présents, à découvrir ce cycle de vidéos sur <a href="https://www.youtube.com/channel/UCANaa23W9dzac8iL_fGGfPw/featured" target="blank" title="Page Youtube TBNL">les plus grands légendes NBA</a> ou toute la communauté <a href="http://trashtalk.co/" target="blank" title="Trashtalk">Trashtalk</a>.</p>
 
 <h3>Le débat sur la protection des données personnelles et la neutralité du Net</h3>
 <iframe width="690px" height="388px" src="https://www.youtube.com/embed/MUTABXD8f24?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<p>Observateur depuis quelques années des différents enjeux et risques que ce soit en France (loi anti-terroriste) comme au niveau supérieur (Europe, USA...). Je suis les actions d'associations comme la Quadrature du Net et la FDN.</p>
+<p style="margin-top: 10px;">Observateur depuis quelques années des différents enjeux et risques que ce soit en France (loi anti-terroriste) comme au niveau supérieur (Europe, USA...). Je suis les actions d'associations comme la Quadrature du Net et la FDN.</p>
 
 <h2>🚀 Retrouvez-moi sur le web et ailleurs</h2>
 <div>
